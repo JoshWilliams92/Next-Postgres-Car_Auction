@@ -1,0 +1,13 @@
+<svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="640" fill="#E2E8F0"/>
+  <rect x="72" y="72" width="816" height="496" rx="36" fill="#F8FAFC"/>
+  <path d="M252 376L312 252C324 226 350 208 378 208H580C621 208 658 233 676 270L716 352C760 357 792 394 792 438V456H744C744 498 710 532 668 532C626 532 592 498 592 456H368C368 498 334 532 292 532C250 532 216 498 216 456H168V428C168 399 179 371 199 350C214 334 232 324 252 320V376Z" fill="#94A3B8"/>
+  <path d="M324 340L362 256H572C593 256 612 268 622 286L652 340H324Z" fill="#CBD5E1"/>
+  <circle cx="292" cy="456" r="52" fill="#334155"/>
+  <circle cx="292" cy="456" r="24" fill="#E2E8F0"/>
+  <circle cx="668" cy="456" r="52" fill="#334155"/>
+  <circle cx="668" cy="456" r="24" fill="#E2E8F0"/>
+  <path d="M416 200H540" stroke="#CBD5E1" stroke-width="24" stroke-linecap="round"/>
+  <path d="M240 188C296 156 383 136 480 136C577 136 664 156 720 188" stroke="#CBD5E1" stroke-width="16" stroke-linecap="round"/>
+  <text x="480" y="592" text-anchor="middle" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">CAR AUCTION</text>
+</svg>
