@@ -34,7 +34,7 @@ A modern Next.js application for buying and selling vehicles through an online a
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/car-auction.git
+git clone https://github.com/JoshWilliams92/Next-Postgres-Car_Auction.git
 cd car-auction
 ```
 
