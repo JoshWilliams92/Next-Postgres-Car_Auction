@@ -2,6 +2,10 @@
 
 A modern Next.js application for buying and selling vehicles through an online auction system. Features real-time bidding, auction management, watchlist tracking, and an interactive analytics dashboard.
 
+## Demo
+
+[Watch the demo video here](https://github.com/JoshWilliams92/Next-Postgres-Car_Auction/releases/download/V1.0.0/Postgres.Car.Auction.mp4)
+
 ## Features
 
 - **Create & Manage Auctions** — List vehicles for auction with detailed specs and photos
